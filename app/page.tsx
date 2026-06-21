@@ -36,16 +36,18 @@ export default function KalaBakery() {
           
           {/* Bagian Kiri: Teks Besar */}
           <div className="text-left pt-10 lg:pt-0">
-            <p className="text-4xl text-amber-900/40 italic font-serif mb-6">TASTE OUR SIGNATURE</p>
-            <h2 className="text-6xl lg:text-8xl font-black text-[#D8A84E] leading-none mb-2 uppercase drop-shadow-sm">
-              NASTAR<br/>PREMIUM
+            <p className="text-4xl text-amber-900/40 italic font-serif mb-6">Every bite, a little joy</p>
+            <h2 className="text-3xl lg:text-2xl font-semibold text-[#D8A84E] leading-none mb-2 uppercase drop-shadow-sm">
+              Karena kami percaya<br/>rasa terbaik datang dari perhatian
             </h2>
-            <p className="text-4xl text-amber-900/40 italic font-serif mb-6">by Nusakalarasa</p>
+            <p className="text-2xl text-amber-900/40 italic font-serif mb-6">Baked with care, Shared with love<br/>JUST FOR YOU !</p>
             
-            <p className="text-lg font-bold tracking-widest mb-4 uppercase">
-              THE BEST NASTAR IN COUNTRY<br/>BAKED FRESHLY FROM THE OVEN<br/>JUST FOR YOU !
+            <p className="text-3xl lg:text-3xl font-serif text-amber-900 leading-none mb-1 drop-shadow-sm">
+              KALA BAKERY
             </p>
-            
+            <p className="text-xl lg:text-xl font-serif text-[#D8A84E] leading-none mb-1 drop-shadow-sm">
+              by Nusakalarasa
+            </p>
             <p className="mb-8 max-w-md font-medium text-amber-900/80">
               Kunjungi toko offline kami atau pesan secara online untuk mendapatkan produk terbaru kami!
             </p>
